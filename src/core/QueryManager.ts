@@ -47,7 +47,6 @@ import {
   InternalRefetchQueriesOptions,
   InternalRefetchQueriesResult,
   InternalRefetchQueriesMap,
-  TransformQueryOptions,
 } from './types';
 import { LocalState } from './LocalState';
 
